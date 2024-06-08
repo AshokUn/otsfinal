@@ -782,22 +782,22 @@ body{
     margin: 0 ;
     font-family: sans-serif;
 }
-.section-padding{
-    background-color: #007bff;
+.section-paddings{
+   
     display: flex;
     justify-content: space-between;
     padding: 40px;
     width: 60%;
     margin: 10rem auto 0 auto ;
 }
-.section-padding img{
-    height: 250px;
+.section-paddings img{
+    height: 500px;
 }
-.section-padding h1{
+.section-paddings h1{
     margin: 0;
     color: #07a6a0;
 }
-.section-padding p {
+.section-paddings p {
     color: #c0bdbd;
     margin:  15px;
 }
