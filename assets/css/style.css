@@ -790,8 +790,9 @@ body{
     width: 60%;
     margin: 10rem auto 0 auto ;
 }
-.section-paddings img{
-    height: 500px;
+.img_deg{
+
+    float: right;
 }
 .section-paddings h1{
     margin: 0;
@@ -799,5 +800,5 @@ body{
 }
 .section-paddings p {
     color: #c0bdbd;
-    margin:  15px;
+    margin:  25px;
 }
