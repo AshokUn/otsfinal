@@ -792,11 +792,16 @@ body{
 }
 .img_deg{
 
-    float: right;
+    float: left;
+    width: 40%;
+    left: 15%;
+    top: 20%;
+    background-color: skyblue;
+    padding: 30px;
 }
-.section-paddings h1{
-    margin: 0;
-    color: #07a6a0;
+.pos_cen{
+   position: absolute;
+   width: 70%;
 }
 .section-paddings p {
     color: #c0bdbd;
