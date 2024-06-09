@@ -816,7 +816,7 @@ body{
     margin: 5px 1px;
     
 }
-container contents p{
+.container contents p{
     color: white;
     margin:auto ;
     text-align: justify;
