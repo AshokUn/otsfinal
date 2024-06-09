@@ -811,3 +811,13 @@ body{
     margin:  20px;
     text-align:justify ;
 }
+.container contents{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 5px 1px;
+    
+}
+container contents p{
+    color: white;
+    margin:auto ;
+    text-align: justify;
+}
