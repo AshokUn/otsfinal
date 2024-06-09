@@ -779,31 +779,35 @@ lio-item:hover h2 a {text-decoration:underline;}
 
 body{
 
-    margin: 0 ;
-    font-family: sans-serif;
+    margin: 10px 1px ;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 .section-paddings{
    
-    display: flex;
-    justify-content: space-between;
-    padding: 40px;
+    display:flex;
+    justify-content:flex-start;
+    padding: 30px;
     width: 60%;
-    margin: 10rem auto 0 auto ;
+    margin: 20px; ;
 }
 .img_deg{
 
     float: left;
     width: 40%;
-    left: 15%;
-    top: 20%;
-    background-color: skyblue;
-    padding: 30px;
+    height: auto;   
+    border-image:url(border.png)30% round;
+    border: 15px solid transparent;
 }
 .pos_cen{
-   position: absolute;
-   width: 70%;
+   position:relative;
+   width: 100%;
+   left: 50px;
+   top: 20;
+   background-color:#17a2b8;;
+   padding: 30px;
 }
 .section-paddings p {
-    color: #c0bdbd;
-    margin:  25px;
+    color:white;
+    margin:  20px;
+    text-align:justify ;
 }
